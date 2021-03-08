@@ -57,6 +57,7 @@ git commit -m '注释'
 git push origin main
 ```
 
+想上传文件，应该是必须有注释。上面这三句话就是标准流程
 
 
-之后原有文件有修改，修改之后直接git push origin main就可以了。
+
