@@ -1,4 +1,4 @@
-|     list1     |                       ! 发音意思不熟悉                       |                      α 发音不熟悉                      |
+|     list1     |                       ! 发音意思不熟悉                       |                      #发音不熟悉                       |
 | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------: |
 |     hail      |           n.冰雹，一阵，致敬  v.下冰雹，致敬，招呼           |              发音我感觉和heal治愈一摸一样              |
 |    lineage    |                      n.血统，家族，宗系                      |                       发音不熟悉                       |
@@ -19,7 +19,7 @@
 |    chisel     |                       n.凿子 v.雕，刻                        |                                                        |
 |   frenetic    |                       a.发狂的，狂热的                       |            发音不熟悉(fer)<br />!意思不熟悉            |
 |     arena     |                        n.竞技场，舞台                        |                   !意思  发音不熟悉                    |
-|  solidarity   |                            n.团结                            |                                                        |
+|  solidarity   |                            n.团结                            |                           !#                           |
 |   supermacy   |                  n.至高无上，最大权力，优势                  |                                                        |
 |    gourmet    |                           n.美食家                           |           不发t，发音不熟悉<br />意思不熟悉            |
 |     stark     | a.光秃的，荒凉的  a.(选择、陈述)严峻，令人不快的，(对比)鲜明的 |                                                        |
@@ -57,25 +57,25 @@
 |  practically  |                    ad.实际上，几乎，简直                     |                       发音不熟悉                       |
 |               |                excel     [ik]<br />exhale[ek]                |                                                        |
 | protectionist |              n.贸易保护主义者 a.贸易保护主义的               |                       意思不熟悉                       |
-|     sewer     |                                                              |                        α 苏的音                        |
+|     sewer     |                                                              |                        # 苏的音                        |
 |   **list5**   |                                                              |                                                        |
-|   solicitor   |                       n.律师，法律顾问                       |                    !发音意思不熟悉                     |
-|    shatter    |                      v.粉碎，破碎，毁坏                      |                    !发音意思不熟悉                     |
+|   solicitor   |                       n.律师，法律顾问                       |                          !!#                           |
+|    shatter    |                      v.粉碎，破碎，毁坏                      |                           !!                           |
 |   stickpin    |                           n.领带夹                           |                                                        |
 |   lampshade   |                            n.灯罩                            |                       发音不熟悉                       |
 |   pedagogic   |                     a.教育学的，教学发的                     |                       发音不熟悉                       |
 | affectionate  |                 a.表示关爱的，亲爱的，挚爱的                 |                                                        |
 |    regime     |                  n.政权，社会制度，管理体制                  |                                                        |
-|      roe      |                      n.獐鹿，鱼卵，鱼子                      |                     发音意思不熟悉                     |
+|      roe      |                      n.獐鹿，鱼卵，鱼子                      |                     !感觉和row好像                     |
 |    verdict    |   n.(陪审团或法官的)裁决; (经过思考或者调查后的)意见，结论   |                    !发音意思不熟悉                     |
 |     ajar      |                    a.(门等)半开着，微开着                    |                    !发音意思不熟悉                     |
 |   affective   |                     a.情感的，表达感情的                     |                        注意发音                        |
 |     libel     |                 n.诽谤，诋毁v.对...进行诽谤                  |                     发音意思不熟悉                     |
 |     odds      |                n.可能性，几率，(赌博中的)赔率                |                                                        |
-|   refurbish   |                       v.重新刷新，翻修                       |                      !发音不熟悉                       |
-|  conciseness  |                         n.简洁，简明                         |                    !发音意思不熟悉                     |
+|   refurbish   |                       v.重新刷新，翻修                       |                           !#                           |
+|  conciseness  |                         n.简洁，简明                         |                           !!                           |
 |   tableland   |                         n.高地，高原                         |                                                        |
-|  seismology   |                           n.地震学                           |                       发音不熟悉                       |
+|  seismology   |                           n.地震学                           |                           #!                           |
 |  restoration  |                      n.恢复，归还，整修                      |                      !发音不熟悉                       |
 |               |                                                              |                                                        |
 |               |                                                              |                                                        |
@@ -88,7 +88,7 @@
 | seeding       | n.秧苗，幼苗，树苗                                  |                             |
 | scaled        | a.有鳞片斑点的，有鳞片的                            | !                           |
 | instruct      | v.指导，通知，命令                                  |                             |
-| wrestling     | n.摔跤，格斗                                        | w不发音, !.α                |
+| wrestling     | n.摔跤，格斗                                        | w不发音, !.#                |
 | paralyze      | v.使瘫痪，使麻痹                                    | !                           |
 | resentful     | a.怨恨的，愤慨的                                    | !!!                         |
 | drudgery      | n.苦活，苦差事                                      | 注意词性ery结尾但是一个n, ! |
@@ -112,42 +112,42 @@
 | ferromagnetic | a.铁磁的                                            | 发音不熟悉                  |
 | episode       | n.插曲，一段情节                                    | 发音不熟悉                  |
 | hilly         | a.多丘陵的，多小山的                                | 发音不熟悉                  |
-| dietetics     | n.饮食学                                            | !! α                        |
+| dietetics     | n.饮食学                                            | !! #                        |
 |               |                                                     |                             |
 |               |                                                     |                             |
 | **list8**     |                                                     |                             |
-| coalesce      | v.联合                                              | !                           |
+| coalesce      | v.联合                                              | !!                          |
 | ancestral     | a.祖先的，祖传的                                    | 意思不熟悉                  |
-| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                  | !                           |
+| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                  | !!                          |
 | anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析 | !!                          |
-| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                |                             |
-| warrantable   | a.可保证的，可承认的，正当的                        | !!                          |
-| ridicule      | v.嘲笑，奚落  n.                                    | ！                          |
-| competing     | a.相互冲突的，相互矛盾的                            | !                           |
-| juncture      | n.特定时刻，关头，接合                              | !                           |
-| crippling     | a.有严重危害的，(疾病的)严重损害健康的              | !                           |
-| locoweed      | n.疯草(导致牲畜中毒的)                              | !                           |
-| slumber       | n.睡眠  v.                                          | !                           |
+| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                | !!                          |
+| warrantable   | a.可保证的，可承认的，正当的                        | !!!                         |
+| ridicule      | v.嘲笑，奚落  n.                                    | ！!                         |
+| competing     | a.相互冲突的，相互矛盾的                            | !!                          |
+| juncture      | n.特定时刻，关头，接合                              | !!                          |
+| crippling     | a.有严重危害的，(疾病的)严重损害健康的              | !!                          |
+| locoweed      | n.疯草(导致牲畜中毒的)                              | !!                          |
+| slumber       | n.睡眠  v.                                          | !!                          |
 | ridicule      | v.嘲笑，奚落  n.嘲笑，奚落                          | !    \|re\|                 |
+| exposition    | n.阐述，讲解，博览会                                |                             |
 |               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
+| **list9**     |                                                     |                             |
+| indented      | a.锯齿状的，层次不齐的                              | !                           |
+| facelift      | n.翻新，去皱整容手术                                |                             |
+| overburden    | 除了使负担过重外有 n.覆盖土，表土                   |                             |
+| hands-on      | a.亲自实践的，实际动手操作的                        |                             |
+| bustle        | n. 繁忙，喧闹v.                                     | !                           |
+| fresco        | n.湿墙画                                            | !                           |
+| sansational   | a.轰动的，耸人听闻的，极好的                        |                             |
+| embellishment | n.装饰，修饰                                        | !                           |
+| carving       | n.雕刻品                                            | 注意词性是名词              |
+| cipher        | n.密码，无足轻重的人                                |                             |
+| incongruity   | n.不协调，不一致，不适宜                            | !                           |
+| abiding       | a.(情感、记忆、兴趣等)持久的，长久的                | !                           |
+| paucity       | n.小量，缺乏                                        |                             |
+| comprise      | vt.包含，包括                                       |                             |
+| escapist      | n.逃避现实者  a.逃避现实的                          | 带有形容词词性              |
+| splendor      | n.壮丽，辉煌                                        | #                           |
 |               |                                                     |                             |
 |               |                                                     |                             |
 |               |                                                     |                             |
