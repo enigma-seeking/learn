@@ -80,85 +80,104 @@
 |               |                                                              |                                                        |
 |               |                                                              |                                                        |
 
-| **list6**     | 这个list很多单词，认识但不熟悉                      |                             |
-| ------------- | --------------------------------------------------- | --------------------------- |
-| stalk         | n.[植]茎，柄 v.跟踪                                 |                             |
-| conjectural   | a.推测的                                            | !!                          |
-| potent        | a.强有力的，有效的                                  | !发音意思不熟悉             |
-| seeding       | n.秧苗，幼苗，树苗                                  |                             |
-| scaled        | a.有鳞片斑点的，有鳞片的                            | !                           |
-| instruct      | v.指导，通知，命令                                  |                             |
-| wrestling     | n.摔跤，格斗                                        | w不发音, !.#                |
-| paralyze      | v.使瘫痪，使麻痹                                    | !                           |
-| resentful     | a.怨恨的，愤慨的                                    | !!!                         |
-| drudgery      | n.苦活，苦差事                                      | 注意词性ery结尾但是一个n, ! |
-| crystalline   | a.水晶的，结晶的，透明的                            | 注意词性line结尾但是一个v   |
-| affliction    | n.痛苦，悲伤                                        |                             |
-| endow         | vt.捐赠，捐助                                       | 因大雾,意思不熟悉           |
-| baboon        | n.狒狒                                              |                             |
-| flourish      | v.繁荣                                              | 意思熟悉，发音不熟悉        |
-|               |                                                     |                             |
-|               |                                                     |                             |
-| **list7**     |                                                     |                             |
-| continuum     | n.连续统一体                                        | 意思发音不熟悉              |
-| ephemeral     | a.短暂的，瞬间的                                    | !!                          |
-| silicate      | n.硅酸盐                                            | 意思发音不熟悉              |
-| spoilage      | n.(通常指食物)腐败，变质，变坏                      | 意思发音不熟悉              |
-| expressly     | ad.清楚地，明确地，特意地，确切地                   |                             |
-| lengthy       | a.漫长的，冗长的，罗嗦的(演说，文章)                |                             |
-| unscrupulous  | a.肆无忌惮的，无道德原则的                          |                             |
-| stonemason    | n.石工，石匠                                        |                             |
-| boulder       | n.圆形巨石                                          |                             |
-| ferromagnetic | a.铁磁的                                            | 发音不熟悉                  |
-| episode       | n.插曲，一段情节                                    | 发音不熟悉                  |
-| hilly         | a.多丘陵的，多小山的                                | 发音不熟悉                  |
-| dietetics     | n.饮食学                                            | !! #                        |
-|               |                                                     |                             |
-|               |                                                     |                             |
-| **list8**     |                                                     |                             |
-| coalesce      | v.联合                                              | !!                          |
-| ancestral     | a.祖先的，祖传的                                    | 意思不熟悉                  |
-| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                  | !!                          |
-| anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析 | !!                          |
-| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                | !!                          |
-| warrantable   | a.可保证的，可承认的，正当的                        | !!!                         |
-| ridicule      | v.嘲笑，奚落  n.                                    | ！!                         |
-| competing     | a.相互冲突的，相互矛盾的                            | !!                          |
-| juncture      | n.特定时刻，关头，接合                              | !!                          |
-| crippling     | a.有严重危害的，(疾病的)严重损害健康的              | !!                          |
-| locoweed      | n.疯草(导致牲畜中毒的)                              | !!                          |
-| slumber       | n.睡眠  v.                                          | !!                          |
-| ridicule      | v.嘲笑，奚落  n.嘲笑，奚落                          | !    \|re\|                 |
-| exposition    | n.阐述，讲解，博览会                                |                             |
-|               |                                                     |                             |
-| **list9**     |                                                     |                             |
-| indented      | a.锯齿状的，层次不齐的                              | !                           |
-| facelift      | n.翻新，去皱整容手术                                |                             |
-| overburden    | 除了使负担过重外有 n.覆盖土，表土                   |                             |
-| hands-on      | a.亲自实践的，实际动手操作的                        |                             |
-| bustle        | n. 繁忙，喧闹v.                                     | !                           |
-| fresco        | n.湿墙画                                            | !                           |
-| sansational   | a.轰动的，耸人听闻的，极好的                        |                             |
-| embellishment | n.装饰，修饰                                        | !                           |
-| carving       | n.雕刻品                                            | 注意词性是名词              |
-| cipher        | n.密码，无足轻重的人                                |                             |
-| incongruity   | n.不协调，不一致，不适宜                            | !                           |
-| abiding       | a.(情感、记忆、兴趣等)持久的，长久的                | !                           |
-| paucity       | n.小量，缺乏                                        |                             |
-| comprise      | vt.包含，包括                                       |                             |
-| escapist      | n.逃避现实者  a.逃避现实的                          | 带有形容词词性              |
-| splendor      | n.壮丽，辉煌                                        | #                           |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
-|               |                                                     |                             |
+| **list6**     | 这个list很多单词，认识但不熟悉                               |                             |
+| ------------- | ------------------------------------------------------------ | --------------------------- |
+| stalk         | n.[植]茎，柄 v.跟踪                                          |                             |
+| conjectural   | a.推测的                                                     | !!                          |
+| potent        | a.强有力的，有效的                                           | !发音意思不熟悉             |
+| seeding       | n.秧苗，幼苗，树苗                                           |                             |
+| scaled        | a.有鳞片斑点的，有鳞片的                                     | !                           |
+| instruct      | v.指导，通知，命令                                           |                             |
+| wrestling     | n.摔跤，格斗                                                 | w不发音, !.#                |
+| paralyze      | v.使瘫痪，使麻痹                                             | !                           |
+| resentful     | a.怨恨的，愤慨的                                             | !!!                         |
+| drudgery      | n.苦活，苦差事                                               | 注意词性ery结尾但是一个n, ! |
+| crystalline   | a.水晶的，结晶的，透明的                                     | 注意词性line结尾但是一个v   |
+| affliction    | n.痛苦，悲伤                                                 |                             |
+| endow         | vt.捐赠，捐助                                                | 因大雾,意思不熟悉           |
+| baboon        | n.狒狒                                                       |                             |
+| flourish      | v.繁荣                                                       | 意思熟悉，发音不熟悉        |
+|               |                                                              |                             |
+|               |                                                              |                             |
+| **list7**     |                                                              |                             |
+| continuum     | n.连续统一体                                                 | 意思发音不熟悉              |
+| ephemeral     | a.短暂的，瞬间的                                             | !!                          |
+| silicate      | n.硅酸盐                                                     | 意思发音不熟悉              |
+| spoilage      | n.(通常指食物)腐败，变质，变坏                               | 意思发音不熟悉              |
+| expressly     | ad.清楚地，明确地，特意地，确切地                            |                             |
+| lengthy       | a.漫长的，冗长的，罗嗦的(演说，文章)                         |                             |
+| unscrupulous  | a.肆无忌惮的，无道德原则的                                   |                             |
+| stonemason    | n.石工，石匠                                                 |                             |
+| boulder       | n.圆形巨石                                                   |                             |
+| ferromagnetic | a.铁磁的                                                     | 发音不熟悉                  |
+| episode       | n.插曲，一段情节                                             | 发音不熟悉                  |
+| hilly         | a.多丘陵的，多小山的                                         | 发音不熟悉                  |
+| dietetics     | n.饮食学                                                     | !! #                        |
+|               |                                                              |                             |
+|               |                                                              |                             |
+| **list8**     |                                                              |                             |
+| coalesce      | v.联合                                                       | !!                          |
+| ancestral     | a.祖先的，祖传的                                             | 意思不熟悉                  |
+| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                           | !!                          |
+| anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析          | !!                          |
+| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                         | !!                          |
+| warrantable   | a.可保证的，可承认的，正当的                                 | !!!                         |
+| ridicule      | v.嘲笑，奚落  n.                                             | ！!                         |
+| competing     | a.相互冲突的，相互矛盾的                                     | !!                          |
+| juncture      | n.特定时刻，关头，接合                                       | !!                          |
+| crippling     | a.有严重危害的，(疾病的)严重损害健康的                       | !!                          |
+| locoweed      | n.疯草(导致牲畜中毒的)                                       | !!                          |
+| slumber       | n.睡眠  v.                                                   | !!                          |
+| ridicule      | v.嘲笑，奚落  n.嘲笑，奚落                                   | !    \|re\|                 |
+| exposition    | n.阐述，讲解，博览会                                         |                             |
+|               |                                                              |                             |
+| **list9**     |                                                              |                             |
+| indented      | a.锯齿状的，层次不齐的                                       | !                           |
+| facelift      | n.翻新，去皱整容手术                                         |                             |
+| overburden    | 除了使负担过重外有 n.覆盖土，表土                            |                             |
+| hands-on      | a.亲自实践的，实际动手操作的                                 |                             |
+| bustle        | n. 繁忙，喧闹v.                                              | !                           |
+| fresco        | n.湿墙画                                                     | !                           |
+| sansational   | a.轰动的，耸人听闻的，极好的                                 |                             |
+| embellishment | n.装饰，修饰                                                 | !                           |
+| carving       | n.雕刻品                                                     | 注意词性是名词              |
+| cipher        | n.密码，无足轻重的人                                         |                             |
+| incongruity   | n.不协调，不一致，不适宜                                     | !                           |
+| abiding       | a.(情感、记忆、兴趣等)持久的，长久的                         | !                           |
+| paucity       | n.小量，缺乏                                                 |                             |
+| comprise      | vt.包含，包括                                                |                             |
+| escapist      | n.逃避现实者  a.逃避现实的                                   | 带有形容词词性              |
+| splendor      | n.壮丽，辉煌                                                 | #                           |
+|               |                                                              |                             |
+|               |                                                              |                             |
+| **list10**    |                                                              |                             |
+| strenuous     | a.费力的，繁重的，艰苦的，发奋的                             | !                           |
+| converse      | 除了形容词相反的，颠倒的意思还有动词(与...交谈)，(和...)说话 |                             |
+| unmatched     | a.无与伦比的，无可匹敌的                                     |                             |
+| skimp         | a.缺乏的，不足的   v.节省                                    | !                           |
+| tinplate      | n.马口铁                                                     |                             |
+| brittle       | a.易碎的，脆弱的，易坏的                                     | !                           |
+| legume        | n.豆类，豆荚                                                 | ! \|lai\|                   |
+| deform        | v.(使变形)，使成畸形                                         |                             |
+| fervor        | n.热情，热烈                                                 |                             |
+| preservative  | n.防腐剂                                                     | 注意tive结尾但是一个名词    |
+| embellish     | v.装饰，修饰，给(故事)润色，渲染                             | !                           |
+| plasma        | n.血浆                                                       | !                           |
+| obstacle      | n.妨碍，干扰                                                 |                             |
+| landslide     | n.山崩，塌方，压倒性的胜利                                   | #                           |
+| patron        | n.赞助人，顾客                                               | #                           |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
+|               |                                                              |                             |
 
