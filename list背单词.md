@@ -32,7 +32,7 @@
 |               |                                                              |                                                        |
 |   **list3**   |                                                              |                                                        |
 |    burrow     |                    n.洞穴；v.挖地洞，翻找                    |                      !发音不熟悉                       |
-| galvanization |                         n.镀锌，电镀                         |                                                        |
+| galvanization |                         n.镀锌，电镀                         |                         4.12!                          |
 |   envision    |                      v.设想，想象，预想                      |                                                        |
 | vaporization  |                            n.蒸发                            |                                                        |
 |    finesse    |                   n.手腕，策略  v.施展巧计                   |                   非,!发音意思不熟悉                   |
@@ -88,12 +88,12 @@
 | seeding       | n.秧苗，幼苗，树苗                                           |                             |
 | scaled        | a.有鳞片斑点的，有鳞片的                                     | !                           |
 | instruct      | v.指导，通知，命令                                           |                             |
-| wrestling     | n.摔跤，格斗                                                 | w不发音, !.#                |
+| wrestling     | n.摔跤，格斗                                                 | w不发音, !.#!               |
 | paralyze      | v.使瘫痪，使麻痹                                             | !                           |
-| resentful     | a.怨恨的，愤慨的                                             | !!!                         |
+| resentful     | a.怨恨的，愤慨的                                             | !!!!                        |
 | drudgery      | n.苦活，苦差事                                               | 注意词性ery结尾但是一个n, ! |
 | crystalline   | a.水晶的，结晶的，透明的                                     | 注意词性line结尾但是一个v   |
-| affliction    | n.痛苦，悲伤                                                 |                             |
+| affliction    | n.痛苦，悲伤                                                 | !                           |
 | endow         | vt.捐赠，捐助                                                | 因大雾,意思不熟悉           |
 | baboon        | n.狒狒                                                       |                             |
 | flourish      | v.繁荣                                                       | 意思熟悉，发音不熟悉        |
@@ -116,18 +116,18 @@
 |               |                                                              |                             |
 |               |                                                              |                             |
 | **list8**     |                                                              |                             |
-| coalesce      | v.联合                                                       | !!                          |
+| coalesce      | v.联合                                                       | !!!                         |
 | ancestral     | a.祖先的，祖传的                                             | 意思不熟悉                  |
 | wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                           | !!                          |
-| anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析          | !!                          |
-| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                         | !!                          |
+| anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析          | !!!                         |
+| incandescent  | a.遇热发光的，活力四射的，热情洋溢的                         | !!!                         |
 | warrantable   | a.可保证的，可承认的，正当的                                 | !!!                         |
 | ridicule      | v.嘲笑，奚落  n.                                             | ！!                         |
 | competing     | a.相互冲突的，相互矛盾的                                     | !!                          |
 | juncture      | n.特定时刻，关头，接合                                       | !!                          |
-| crippling     | a.有严重危害的，(疾病的)严重损害健康的                       | !!                          |
+| crippling     | a.有严重危害的，(疾病的)严重损害健康的                       | !!!                         |
 | locoweed      | n.疯草(导致牲畜中毒的)                                       | !!                          |
-| slumber       | n.睡眠  v.                                                   | !!                          |
+| slumber       | n.睡眠  v.                                                   | !!!                         |
 | ridicule      | v.嘲笑，奚落  n.嘲笑，奚落                                   | !    \|re\|                 |
 | exposition    | n.阐述，讲解，博览会                                         |                             |
 |               |                                                              |                             |
@@ -136,15 +136,15 @@
 | facelift      | n.翻新，去皱整容手术                                         |                             |
 | overburden    | 除了使负担过重外有 n.覆盖土，表土                            |                             |
 | hands-on      | a.亲自实践的，实际动手操作的                                 |                             |
-| bustle        | n. 繁忙，喧闹v.                                              | !                           |
-| fresco        | n.湿墙画                                                     | !                           |
+| bustle        | n. 繁忙，喧闹v.                                              | !!                          |
+| fresco        | n.湿墙画                                                     | !!                          |
 | sansational   | a.轰动的，耸人听闻的，极好的                                 |                             |
 | embellishment | n.装饰，修饰                                                 | !                           |
 | carving       | n.雕刻品                                                     | 注意词性是名词              |
 | cipher        | n.密码，无足轻重的人                                         |                             |
-| incongruity   | n.不协调，不一致，不适宜                                     | !                           |
-| abiding       | a.(情感、记忆、兴趣等)持久的，长久的                         | !                           |
-| paucity       | n.小量，缺乏                                                 |                             |
+| incongruity   | n.不协调，不一致，不适宜                                     | !!                          |
+| abiding       | a.(情感、记忆、兴趣等)持久的，长久的                         | !!                          |
+| paucity       | n.小量，缺乏                                                 | !                           |
 | comprise      | vt.包含，包括                                                |                             |
 | escapist      | n.逃避现实者  a.逃避现实的                                   | 带有形容词词性              |
 | splendor      | n.壮丽，辉煌                                                 | #                           |
