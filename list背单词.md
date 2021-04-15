@@ -116,17 +116,17 @@
 | organism      | n.有机体                                                     | #                           |
 |               |                                                              |                             |
 | **list8**     |                                                              |                             |
-| coalesce      | v.联合                                                       | !!!                         |
+| coalesce      | v.联合                                                       | !!!!                        |
 | ancestral     | a.祖先的，祖传的                                             | 意思不熟悉                  |
-| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                           | !!                          |
+| wade          | v.(从水，泥等)蹚，跋涉，艰难地进行                           | !!!                         |
 | anatomy       | n.解破学 n.(人的)身体, (动物体的)结构；n.剖析，分析          | !!!                         |
 | incandescent  | a.遇热发光的，活力四射的，热情洋溢的                         | !!!                         |
-| warrantable   | a.可保证的，可承认的，正当的                                 | !!!                         |
-| ridicule      | v.嘲笑，奚落  n.                                             | ！!                         |
+| warrantable   | a.可保证的，可承认的，正当的                                 | !!!!                        |
+| ridicule      | v.嘲笑，奚落  n.                                             | !!!                         |
 | competing     | a.相互冲突的，相互矛盾的                                     | !!                          |
 | juncture      | n.特定时刻，关头，接合                                       | !!                          |
-| crippling     | a.有严重危害的，(疾病的)严重损害健康的                       | !!!                         |
-| locoweed      | n.疯草(导致牲畜中毒的)                                       | !!                          |
+| crippling     | a.有严重危害的，(疾病的)严重损害健康的                       | !!!!                        |
+| locoweed      | n.疯草(导致牲畜中毒的)                                       | !!!                         |
 | slumber       | n.睡眠  v.                                                   | !!!                         |
 | ridicule      | v.嘲笑，奚落  n.嘲笑，奚落                                   | !    \|re\|                 |
 | exposition    | n.阐述，讲解，博览会                                         |                             |
@@ -151,22 +151,22 @@
 |               |                                                              |                             |
 |               |                                                              |                             |
 | **list10**    |                                                              |                             |
-| strenuous     | a.费力的，繁重的，艰苦的，发奋的                             | !!                          |
+| strenuous     | a.费力的，繁重的，艰苦的，发奋的                             | !!!                         |
 | converse      | 除了形容词相反的，颠倒的意思还有动词(与...交谈)，(和...)说话 |                             |
 | unmatched     | a.无与伦比的，无可匹敌的                                     |                             |
 | skimp         | a.缺乏的，不足的   v.节省                                    | !                           |
 | tinplate      | n.马口铁                                                     |                             |
-| brittle       | a.易碎的，脆弱的，易坏的                                     | !                           |
-| legume        | n.豆类，豆荚                                                 | ! \|lai\|                   |
+| brittle       | a.易碎的，脆弱的，易坏的                                     | !!                          |
+| legume        | n.豆类，豆荚                                                 | ! \|lai\|!                  |
 | deform        | v.(使变形)，使成畸形                                         |                             |
-| fervor        | n.热情，热烈                                                 |                             |
+| fervor        | n.热情，热烈                                                 | !                           |
 | preservative  | n.防腐剂                                                     | 注意tive结尾但是一个名词    |
 | embellish     | v.装饰，修饰，给(故事)润色，渲染                             | !                           |
 | plasma        | n.血浆                                                       | !!!                         |
 | obstacle      | n.妨碍，干扰                                                 |                             |
 | landslide     | n.山崩，塌方，压倒性的胜利                                   | #                           |
-| patron        | n.赞助人，顾客                                               | #                           |
-|               |                                                              |                             |
+| patron        | n.赞助人，顾客                                               | #!                          |
+| inevitably    |                                                              | #                           |
 |               |                                                              |                             |
 |               |                                                              |                             |
 |               |                                                              |                             |
@@ -181,7 +181,7 @@
 | puddle      | n.水坑，小坑                             | #                                      |
 | scuba       | n.水肺，便携式水下呼吸器                 |                                        |
 | demolition  | n.(建筑物的)摧毁,(体育活动等中的)击溃    | !                                      |
-| arsenal     | n.兵工厂，军械库                         |                                        |
+| arsenal     | n.兵工厂，军械库                         | !!                                     |
 | whim        | n.一时的兴致，突发的念头                 |                                        |
 | renaissance | n.文艺复兴(时期)，复兴，复活，复燃       | #                                      |
 | philology   | n.语言学，文献学                         | !                                      |
