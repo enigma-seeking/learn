@@ -226,11 +226,11 @@
 | soothe           | v.使（某人情绪）平静，安慰                                   | ! \|suz\|                      |
 | mulberry         | n.桑树                                                       | !                              |
 | receptacle       | n.容器                                                       | acle结尾发\|kou\|,但是名词词性 |
-| congested        | a.堵塞的                                                     |                                |
-| slimy            | a.黏滑的，卑鄙的                                             |                                |
-| caricature       | n.漫画，讽刺画v.把。。画成漫画                               |                                |
-| reclaim          | v.要求归还，收回，感化                                       |                                |
-| yardstick        | n.尺码，衡量标准                                             |                                |
+| congested        | a.堵塞的                                                     | !                              |
+| slimy            | a.黏滑的，卑鄙的                                             | !                              |
+| caricature       | n.漫画，讽刺画v.把。。画成漫画                               | !                              |
+| reclaim          | v.要求归还，收回，感化                                       | !                              |
+| yardstick        | n.尺码，衡量标准                                             | !                              |
 |                  |                                                              |                                |
 |                  |                                                              |                                |
 |                  |                                                              |                                |
