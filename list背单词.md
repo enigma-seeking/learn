@@ -182,7 +182,7 @@
 | scuba            | n.水肺，便携式水下呼吸器                                     |                                |
 | demolition       | n.(建筑物的)摧毁,(体育活动等中的)击溃                        | !                              |
 | arsenal          | n.兵工厂，军械库                                             | !!                             |
-| whim             | n.一时的兴致，突发的念头                                     |                                |
+| **whim**         | n.一时的兴致，突发的念头                                     |                                |
 | renaissance      | n.文艺复兴(时期)，复兴，复活，复燃                           | #                              |
 | philology        | n.语言学，文献学                                             | !                              |
 | pueblo           | n.印第安人村庄                                               | !                              |
@@ -203,24 +203,24 @@
 |                  |                                                              |                                |
 | **list13**       |                                                              |                                |
 | helium           | n.氦                                                         | !                              |
-| lustrous         | a.有光泽的，光辉的                                           | !                              |
+| **lustrous**     | a.有光泽的，光辉的                                           | !                              |
 | fued             | n.世仇，积怨；v.长期争吵，结怨                               | !                              |
 | wary             | a.小心的，机警的                                             | !                              |
 | imposing         | a.使人难忘的，仪表堂堂的                                     | !                              |
 | barbed wire      | n.带倒钩的铁丝(铁丝网)                                       | !                              |
 | masonry          | n.(筑墙或盖楼用的)砖石                                       | !!                             |
 | majesty          | n.陛下；n.壮观，庄严，雄伟                                   | !                              |
-| centennial       | n.一百周年纪念日   a.一百年的                                | !                              |
+| *centennial*     | n.一百周年纪念日   a.一百年的                                | !                              |
 | semiliterate     | a.半文盲的                                                   | !                              |
 |                  |                                                              |                                |
 |                  |                                                              |                                |
 | **list14**       |                                                              |                                |
 | **perspiration** | n.汗，流汗，努力                                             |                                |
-| sanctimonious    | a.假装圣洁的，道貌岸然的                                     |                                |
+| sanctimonious    | a.假装圣洁的，道貌岸然的                                     | 注意和轰动的Sensational区别    |
 | civility         | n.礼貌，客气                                                 |                                |
 | mammoth          | n.猛犸象    a.巨大的                                         |                                |
 | **illegible**    | a.难辨认的，字迹模糊的                                       |                                |
-| **colossal**     | a.巨大的                                                     |                                |
+| **colossal**     | a.巨大的                                                     | 注意和coalesce区别             |
 | **aquatic**      | a.水xi的，水生的                                             |                                |
 | expedition       | n.探险，考察                                                 |                                |
 | soothe           | v.使（某人情绪）平静，安慰                                   | ! \|suz\|                      |
@@ -228,7 +228,7 @@
 | receptacle       | n.容器                                                       | acle结尾发\|kou\|,但是名词词性 |
 | congested        | a.堵塞的                                                     | !                              |
 | slimy            | a.黏滑的，卑鄙的                                             | !                              |
-| caricature       | n.漫画，讽刺画v.把。。画成漫画                               | !                              |
+| *caricature*     | n.漫画，讽刺画v.把。。画成漫画                               | !                              |
 | reclaim          | v.要求归还，收回，感化                                       | !                              |
 | yardstick        | n.尺码，衡量标准                                             | !                              |
 |                  |                                                              |                                |
